@@ -1,2 +1,2 @@
 # Mini-Event
-print("git tutorial")
+print("git tutori")
